@@ -1,6 +1,6 @@
 # github_web_application
 
-一、 
+一、 github上新建仓库，本地上传初始代码
 1.在github上创建仓库
 
 2. 打开 Git Bash
